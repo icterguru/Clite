@@ -1,0 +1,8 @@
+# Illustrating recursion in Gossamer #
+
+function foo(x) (
+	if (x = 5) ( 5; )
+	else ( foo(x + 1); )
+)
+
+y = foo(0);

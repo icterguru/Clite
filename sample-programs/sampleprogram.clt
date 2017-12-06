@@ -1,0 +1,6 @@
+function average (a, b, c) (
+	(a + b + c) / 3;
+)
+
+result = average(2, 5, 8);
+print(result);

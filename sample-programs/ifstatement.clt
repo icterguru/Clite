@@ -1,0 +1,9 @@
+if (1 eq 1) (
+	println("Yes! 1 equals 1!");
+) 
+
+if (3 > 4) (
+	println("Yes! 3 is greater than 4!");
+) else (
+	println("No! 3 is NOT greater than 4!");
+)
